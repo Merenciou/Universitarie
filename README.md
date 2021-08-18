@@ -18,8 +18,8 @@
 
 </head>
 <body>
-    <img src="C:\Users\vitor\OneDrive\Documents\Letras-Lingua Portuguesa\Meu Curso\images\1.png" alt="Letras - Língua Portuguesa" height="200" align="left">
-    <img src="C:\Users\vitor\OneDrive\Documents\Letras-Lingua Portuguesa\Meu Curso\images\a-modified.png" alt="Vitor Merencio Profile" height="200" align="right">
+    <img src="C:\Users\vitor\OneDrive\Documents\Letras-Lingua Portuguesa\Meu Curso\1.png" alt="Letras - Língua Portuguesa" height="200" align="left">
+    <img src="C:\Users\vitor\OneDrive\Documents\Letras-Lingua Portuguesa\Meu Curso\a-modified.png" alt="Vitor Merencio Profile" height="200" align="right">
   
     <h1>Letras - Língua Portuguesa</h1>
     
